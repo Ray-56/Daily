@@ -3,7 +3,7 @@
 > 每日小题，旨在提升大家的编程水准。
 
 ## 今日
-> [第四题：解释一下 FOUC](https://github.com/guokangf/Daily/issues/5)
+> [第五题：解释一下 FOUC](https://github.com/guokangf/Daily/issues/5)
 
 ## 历史
 
