@@ -3,7 +3,7 @@
 > 每日小题，旨在提升大家的编程水准。
 
 ## 今日
-> [第七题：描述 CSS 的权重计算规则](https://github.com/guokangf/Daily/issues/7)
+> [第八题：什么是技术债务？](https://github.com/guokangf/Daily/issues/8)
 
 ## 历史
 
@@ -13,3 +13,4 @@
 1.  [解释一下 viewport](https://github.com/guokangf/Daily/issues/4)
 1.  [解释一下 FOUC](https://github.com/guokangf/Daily/issues/5)
 1.  [对 shadow DOM 的了解？](https://github.com/guokangf/Daily/issues/6)
+1.  [描述 CSS 的权重计算规则](https://github.com/guokangf/Daily/issues/7)
