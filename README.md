@@ -3,7 +3,7 @@
 > 每日小题，旨在提升大家的编程水准。
 
 ## 今日
-> [第九题：写一个判断对象类型的方法](https://github.com/guokangf/Daily/issues/9)
+> [第十题：title与h1、b与strong、i与em的区别？](https://github.com/guokangf/Daily/issues/10)
 
 
 ## 历史
@@ -16,3 +16,4 @@
 1.  [对 shadow DOM 的了解？](https://github.com/guokangf/Daily/issues/6)
 1.  [描述 CSS 的权重计算规则](https://github.com/guokangf/Daily/issues/7)
 1.  [什么是技术债务？](https://github.com/guokangf/Daily/issues/8)
+1.  [写一个判断对象类型的方法](https://github.com/guokangf/Daily/issues/9)
