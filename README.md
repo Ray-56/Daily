@@ -3,7 +3,7 @@
 > 每日小题，旨在提升大家的编程水准。
 
 ## 今日
-> [第十一题：如何让(a==1 && a==2 && a==3)的值为true](https://github.com/guokangf/Daily/issues/11)
+> [第十二题：http缓存策略](https://github.com/guokangf/Daily/issues/12)
 
 
 ## 历史
@@ -18,3 +18,4 @@
 1.  [什么是技术债务？](https://github.com/guokangf/Daily/issues/8)
 1.  [写一个判断对象类型的方法](https://github.com/guokangf/Daily/issues/9)
 1.  [title与h1、b与strong、i与em的区别？](https://github.com/guokangf/Daily/issues/10)
+1.  [如何让(a==1 && a==2 && a==3)的值为true](https://github.com/guokangf/Daily/issues/11)
