@@ -3,7 +3,7 @@
 > 每日小题，旨在提升大家的编程水准。
 
 ## 今日
-> [第十二题：如何用 CSS 画三角形](https://github.com/guokangf/Daily/issues/13)
+> [第十二题：var x, y = 1; x + y = ?](https://github.com/guokangf/Daily/issues/21)
 
 
 ## 历史
@@ -20,3 +20,11 @@
 1.  [title与h1、b与strong、i与em的区别？](https://github.com/guokangf/Daily/issues/10)
 1.  [如何让(a==1 && a==2 && a==3)的值为true](https://github.com/guokangf/Daily/issues/11)
 1.  [http缓存策略](https://github.com/guokangf/Daily/issues/12)
+1.  [如何用 CSS 画三角形](https://github.com/guokangf/Daily/issues/13)
+1.  [实现一个左边固定宽，右边自适应的左右布局](https://github.com/guokangf/Daily/issues/14)
+1.  [介绍一下你对浏览器内核的理解？](https://github.com/guokangf/Daily/issues/15)
+1.  [解释一下什么是JavaScript的同源策略](https://github.com/guokangf/Daily/issues/16)
+1.  [1 | 10 的值是多少？1 | 11， 1 | 12呢？原理是什么？](https://github.com/guokangf/Daily/issues/17)
+1.  [解释一下什么是mvvm，mvc](https://github.com/guokangf/Daily/issues/18)
+1.  [从输入一个url到呈现网页，都经历了那些过程](https://github.com/guokangf/Daily/issues/19)
+1.  [instanceof与typeof](https://github.com/guokangf/Daily/issues/20)
