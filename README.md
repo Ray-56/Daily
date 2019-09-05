@@ -3,7 +3,7 @@
 > 每日小题，旨在提升大家的编程水准。
 
 ## 今日
-> [第十二题：var x, y = 1; x + y = ?](https://github.com/guokangf/Daily/issues/21)
+> [第二十一题：var x, y = 1; x + y = ?](https://github.com/guokangf/Daily/issues/21)
 
 
 ## 历史
