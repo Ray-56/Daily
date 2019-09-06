@@ -3,7 +3,7 @@
 > 每日小题，旨在提升大家的编程水准。
 
 ## 今日
-> [第二十一题：var x, y = 1; x + y = ?](https://github.com/guokangf/Daily/issues/21)
+> [第二十二题：你会抓包么？](https://github.com/guokangf/Daily/issues/22)
 
 
 ## 历史
@@ -28,3 +28,4 @@
 1.  [解释一下什么是mvvm，mvc](https://github.com/guokangf/Daily/issues/18)
 1.  [从输入一个url到呈现网页，都经历了那些过程](https://github.com/guokangf/Daily/issues/19)
 1.  [instanceof与typeof](https://github.com/guokangf/Daily/issues/20)
+1.  [var x, y = 1; x + y = ?](https://github.com/guokangf/Daily/issues/21)
