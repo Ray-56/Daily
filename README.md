@@ -3,7 +3,7 @@
 > 每日小题，旨在提升大家的编程水准。
 
 ## 今日
-> [第二十二题：你会抓包么？](https://github.com/guokangf/Daily/issues/22)
+> [第二十三题：新窗口打开链接的方法是什么？那么如何使全站链接都打开新窗口？](https://github.com/guokangf/Daily/issues/23)
 
 
 ## 历史
@@ -29,3 +29,4 @@
 1.  [从输入一个url到呈现网页，都经历了那些过程](https://github.com/guokangf/Daily/issues/19)
 1.  [instanceof与typeof](https://github.com/guokangf/Daily/issues/20)
 1.  [var x, y = 1; x + y = ?](https://github.com/guokangf/Daily/issues/21)
+1.  [你会抓包么？](https://github.com/guokangf/Daily/issues/22)
