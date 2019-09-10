@@ -3,7 +3,7 @@
 > 每日小题，旨在提升大家的编程水准。
 
 ## 今日
-> [第二十三题：新窗口打开链接的方法是什么？那么如何使全站链接都打开新窗口？](https://github.com/guokangf/Daily/issues/23)
+> [第二十四题：介绍一下HTML5中的ruby标签](https://github.com/guokangf/Daily/issues/24)
 
 
 ## 历史
@@ -30,3 +30,4 @@
 1.  [instanceof与typeof](https://github.com/guokangf/Daily/issues/20)
 1.  [var x, y = 1; x + y = ?](https://github.com/guokangf/Daily/issues/21)
 1.  [你会抓包么？](https://github.com/guokangf/Daily/issues/22)
+1.  [新窗口打开链接的方法是什么？那么如何使全站链接都打开新窗口？](https://github.com/guokangf/Daily/issues/23)
