@@ -2,8 +2,8 @@
 
 > 每日小题，旨在提升大家的编程水准。
 
-## 今日实现
-> [第二十八题：数组的并、交、差、补集这四个方法](https://github.com/guokangf/Daily/issues/28)
+## 今日
+> [第三十题：两数相加](https://github.com/guokangf/Daily/issues/30)
 
 
 ## 历史
@@ -35,3 +35,5 @@
 1.  [new操作符都做了什么事情？](https://github.com/guokangf/Daily/issues/25)
 1.  [你所在的团队有规范吗？举例说明都定义了哪些规范？](https://github.com/guokangf/Daily/issues/26)
 1.  [用洗牌算法实现一个打乱数组的方法](https://github.com/guokangf/Daily/issues/27)
+1.  [实现数组的并、交、差、补集这四个方法](https://github.com/guokangf/Daily/issues/28)
+1.  [什么是链表？](https://github.com/guokangf/Daily/issues/29)
