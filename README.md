@@ -3,7 +3,7 @@
 > 每日小题，旨在提升大家的编程水准。
 
 ## 今日
-> [第三十题：两数相加](https://github.com/guokangf/Daily/issues/30)
+> [第三十一题：描述一下原型和原型链，以及之间的关系](https://github.com/guokangf/Daily/issues/31)
 
 
 ## 历史
@@ -37,3 +37,4 @@
 1.  [用洗牌算法实现一个打乱数组的方法](https://github.com/guokangf/Daily/issues/27)
 1.  [实现数组的并、交、差、补集这四个方法](https://github.com/guokangf/Daily/issues/28)
 1.  [什么是链表？](https://github.com/guokangf/Daily/issues/29)
+1.  [两数相加](https://github.com/guokangf/Daily/issues/30)
